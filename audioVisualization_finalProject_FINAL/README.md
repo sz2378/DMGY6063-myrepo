@@ -8,22 +8,22 @@
 
 **Project Description:**
 
-```
-This is a final project for Creative Coding written by James Zhong
 
-This audio visualizer is based on the .minim library, which is needed for the program to run properly.
+* This is a final project for Creative Coding written by James Zhong
 
-This audio visualizer detects frequencies and beats, and sample data which is then used to create graphics.
+* This audio visualizer is based on the .minim library, which is needed for the program to run properly.
 
-At the begining, one of the 5 modes will be selected randomly. You can turn it off by pressing the corresponding button (1-5 and 0).
+* This audio visualizer detects frequencies and beats, and sample data which is then used to create graphics.
 
-Please use number keys 1-5 and 0 to turn on/off each graphic effect.
+* At the begining, one of the 5 modes will be selected randomly. You can turn it off by pressing the corresponding button (1-5 and 0).
 
-To change the audio, save the designated audio file in the /data/folder and replace the audio name below; be sure to include the file-type suffix.
+*  __Please use number keys 1-5 and 0 to turn on/off each graphic effect.__
 
-Also, feel free to change the sensitivity of the beat detector according to the vibe of your song. 
+* To change the audio, save the designated audio file in the /data/folder and replace the audio name below; be sure to include the file-type suffix.
+
+* Also, feel free to change the sensitivity of the beat detector according to the vibe of your song. 
 Default is 30 ms. See comments in the .pde file for more info.
-```
+
 
 
 **Credits:**
